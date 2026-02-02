@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Based Log Anomaly Detection System
 
 A scalable, real-time log anomaly detection system that identifies abnormal patterns in system logs using machine learning. The system utilizes a **Golang** backend for high-performance log ingestion and processing, and a **Python** microservice for ML-based anomaly detection (Isolation Forest).
@@ -178,4 +177,3 @@ response:
 ```
 =======
 # Ai-log-Detector
->>>>>>> 2f9dcb1301f276c7c5f71bfd8eafe3165a0049f7
