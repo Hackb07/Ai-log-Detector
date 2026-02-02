@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2026-02-01T15:28:32.9738647+05:30",
+    "level": "INFO",
+    "message": "User login successful",
+    "source": "auth-service",
+    "is_anomaly": false,
+    "anomaly_score": 0.04747109753091522
+  },
+  {
+    "timestamp": "2026-02-01T15:28:33.0003307+05:30",
+    "level": "CRITICAL",
+    "message": "DATABASE INTEGRITY ERROR: TABLE CORRUPTION DETECTED",
+    "source": "core-system",
+    "is_anomaly": false,
+    "anomaly_score": 0.13644428986067297
+  },
+  {
+    "timestamp": "2026-02-01T15:28:33.0045884+05:30",
+    "level": "CRITICAL",
+    "message": "Security Alert: Repeated failed login attempts from IP 203.0.113.42",
+    "source": "core-system",
+    "is_anomaly": false,
+    "anomaly_score": 0.13539916884383063
+  },
+  {
+    "timestamp": "2026-02-01T15:28:33.0133969+05:30",
+    "level": "CRITICAL",
+    "message": "Unexpected system shutdown initiated by watchdog",
+    "source": "core-system",
+    "is_anomaly": false,
+    "anomaly_score": 0.12002102117399199
+  }
+]
