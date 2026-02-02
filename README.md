@@ -13,7 +13,7 @@ A scalable, real-time log anomaly detection system that identifies abnormal patt
 
 ## 🏗️ System Architecture
 
-```mermaid
+```
 graph TD
     subgraph "Real Life / Production Environment"
         Users[User/Apps] --> |HTTP POST Logs| LB[Load Balancer]
